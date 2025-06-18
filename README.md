@@ -14,3 +14,9 @@ The task is this: spend about 30 minutes (more if you choose, that's totally up 
 
 You can implement it and share your solution with us before or during the interview. Or if you prefer live collaboration session with the team, you can also lead the team to implement the app during your interview.
 
+### Instructions
+
+- Clone/download the repo
+- Create a branch for your solution
+- Implement your solution. Note that we have given you some starter setup. Feel free to change it however you want
+- Create a pull request for your solution
