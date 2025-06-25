@@ -20,3 +20,13 @@ You can implement it and share your solution with us before or during the interv
 - Create a branch for your solution
 - Implement your solution. Note that we have given you some starter setup. Feel free to change it however you want
 - Create a pull request for your solution
+
+### Changes Made
+
+- Added Task model with title, description, completed, and timestamps.
+- Created a DRF serializer for the Task model.
+- Implemented a TaskViewSet to support full CRUD operations.
+- Registered viewset routes using DRF's DefaultRouter.
+- Integrated django-rest-framework into the project settings.
+- Applied database migrations for the new model.
+- Verified functionality by running and testing the full API flow.
